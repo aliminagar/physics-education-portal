@@ -38,17 +38,38 @@ This project is a demo for showcasing software engineering skills. Some links an
 
 ## 📱 Screenshots
 
-### Main Dashboard
+### Main Dashboard – Classical Physics
 
-![Main Dashboard](screenshots/dashboard.png)
+![Main Dashboard: Classical Physics](screenshots/dashboard-classical-physics.png)
+_Legend: The main dashboard view, featuring navigation across all major physics topics, classical mechanics theory highlights, and an interactive simple pendulum simulation._
 
-### 3D Atomic Models
+---
 
-![Atomic Models](screenshots/atomic-models.png)
+### Wave Interference Simulation
 
-### Interactive Simulations
+![Wave Interference Simulation](screenshots/wave-interference-simulation.png)
+_Legend: Interactive wave interference simulation—adjust amplitude, frequency, and phase for two waves, and visualize the resultant wave in real time._
 
-![Simulations](screenshots/simulations.png)
+---
+
+### Kepler's Laws of Planetary Motion
+
+![Kepler's Laws of Planetary Motion](screenshots/kepler-laws-planetary-motion.png)
+_Legend: Detailed display of Kepler’s three laws of planetary motion, with equations and explanatory text for each law—showcasing the educational and scientific rigor of the portal._
+
+---
+
+### Formula Calculator and Quiz Challenge
+
+![Formula Calculator and Quiz Challenge](screenshots/calculator-quiz-challenge.png)
+_Legend: Physics formula calculator for quick computations (e.g., kinetic energy) and an interactive quiz challenge to test physics knowledge across multiple topics and difficulty levels._
+
+---
+
+### Timeline of Physics Discoveries
+
+![Timeline of Physics Discoveries](screenshots/physics-discoveries-timeline.png)
+_Legend: Explore the timeline of physics discoveries through portraits of influential physicists, spanning from Copernicus to Higgs—illustrating the human story behind the science._
 
 ## 🛠️ Technology Stack
 
@@ -370,9 +391,9 @@ If you use any part of this code or its derivatives, you must provide appropriat
 
 **Alireza Minagar**
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- GitHub: [aliminagar/physics-education-portal](https://github.com/aliminagar/physics-education-portal)
+- Email: aminagar@gmail.com
+- LinkedIn: [alireza-minagar-md-mba-ms-biotech-bioinformatics-b450aa173](https://www.linkedin.com/in/alireza-minagar-md-mba-ms-biotech-bioinformatics-b450aa173)
 
 ## 🙏 Acknowledgments
 
