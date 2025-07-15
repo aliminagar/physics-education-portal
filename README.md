@@ -1,3 +1,5 @@
+[View Live Demo](https://aliminagar.github.io/physics-education-portal/)
+
 # Physics Education Portal
 
 An interactive, comprehensive physics education platform built with React, TypeScript, and modern web technologies. This portal provides students, educators, and physics enthusiasts with engaging visualizations, simulations, and educational content covering all major areas of physics.
@@ -34,7 +36,7 @@ This project is a demo for showcasing software engineering skills. Some links an
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-demo-url-here.com) _(Coming Soon)_
+[View Live Demo](https://aliminagar.github.io/physics-education-portal/)
 
 ## 📱 Screenshots
 
