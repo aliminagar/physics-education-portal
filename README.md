@@ -4,11 +4,14 @@
 
 An interactive, comprehensive physics education platform built with React, TypeScript, and modern web technologies. This portal provides students, educators, and physics enthusiasts with engaging visualizations, simulations, and educational content covering all major areas of physics.
 
+Developed by a current UMGC adjunct faculty member teaching cross-platform UI implementation and accessibility-first design in asynchronous learning environments.
+
 ## Prototype / Instructional Research Showcase
 
-This project is an instructional research prototype demonstrating immersive, simulation-driven learning experiences in a web-based environment. The platform explores experiential learning through interactive visualization, spatial simulation, and learner-centered interface design. Certain sections illustrate planned capabilities and may not yet be fully implemented.
+This project is an instructional research prototype demonstrating immersive, simulation-driven learning experiences grounded in experiential and constructivist learning principles within a web-based environment. The platform explores experiential learning through interactive visualization, spatial simulation, and learner-centered interface design. Certain sections illustrate planned capabilities and may not yet be fully implemented.
 
 This work also serves as an exploratory Scholarship of Teaching and Learning (SoTL) artifact examining how immersive simulation environments influence learner engagement, accessibility, and conceptual understanding in asynchronous digital learning contexts.
+The platform explores immersive spatial interaction patterns common to XR and virtual learning environments through web-based 3D simulation.
 
 ---
 
@@ -132,7 +135,7 @@ Before running this project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/physics-education-portal.git
+git clone github.com/aliminagar/physics-education-portal.git
 cd physics-education-portal
 ```
 
@@ -461,4 +464,4 @@ If you find this project helpful, please consider giving it a star on GitHub! �
 
 **Made with ❤️ for physics education and open source learning**
 
-_Last updated: March 2025_
+_Last updated: February 2026
