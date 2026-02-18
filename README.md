@@ -4,46 +4,52 @@
 
 An interactive, comprehensive physics education platform built with React, TypeScript, and modern web technologies. This portal provides students, educators, and physics enthusiasts with engaging visualizations, simulations, and educational content covering all major areas of physics.
 
-## Prototype / Instructional Showcase
-This project is an instructional prototype and portfolio showcase demonstrating immersive, simulation-driven learning experiences in a web-based environment. Certain sections are included to illustrate planned capabilities and may not be fully implemented in the current build.
+## Prototype / Instructional Research Showcase
+
+This project is an instructional research prototype demonstrating immersive, simulation-driven learning experiences in a web-based environment. The platform explores experiential learning through interactive visualization, spatial simulation, and learner-centered interface design. Certain sections illustrate planned capabilities and may not yet be fully implemented.
+
+This work also serves as an exploratory Scholarship of Teaching and Learning (SoTL) artifact examining how immersive simulation environments influence learner engagement, accessibility, and conceptual understanding in asynchronous digital learning contexts.
+
+---
 
 ## 🌟 Features
 
 ### Interactive Physics Simulations
 
-- **3D Visualizations**: Interactive atomic models, molecular structures, and quantum mechanics demonstrations
-- **Wave Physics**: Real-time wave interference patterns and oscillation simulations
-- **Orbital Mechanics**: Solar system simulator with realistic planetary motion
-- **Electromagnetic Fields**: Visual representations of electric and magnetic field interactions
-- **Quantum Mechanics**: Particle-in-a-box simulations and wave function visualizations
+- **3D Visualizations** — Interactive atomic models, molecular structures, and quantum mechanics demonstrations
+- **Wave Physics** — Real-time wave interference patterns and oscillation simulations
+- **Orbital Mechanics** — Solar system simulator with realistic planetary motion
+- **Electromagnetic Fields** — Visual representations of electric and magnetic field interactions
+- **Quantum Mechanics** — Particle-in-a-box simulations and wave function visualizations
 
 ### Educational Content
 
-- **Comprehensive Timeline**: Evolution of atomic theory from Ancient Greece to modern quantum mechanics
-- **Physics Calculator**: Built-in calculator for common physics formulas and equations
-- **Interactive Quizzes**: Adaptive quizzes covering all physics topics with detailed explanations
-- **Study Resources**: Curated learning materials organized by difficulty level
-- **Problem Solving**: Step-by-step solutions to advanced physics problems
+- **Comprehensive Timeline** — Evolution of atomic theory from Ancient Greece to modern quantum mechanics
+- **Physics Calculator** — Built-in calculator for common physics formulas and equations
+- **Interactive Quizzes** — Adaptive quizzes covering physics topics with detailed explanations
+- **Study Resources** — Curated learning materials organized by difficulty level
+- **Problem Solving** — Step-by-step solutions to advanced physics problems
 
 ### Advanced Features
 
-- **Real-time Simulations**: Matter.js and Three.js powered physics engines
-- **Mathematical Rendering**: LaTeX equation support with KaTeX
-- **Responsive Design**: Optimized for desktop, tablet, and mobile devices
-- **Dark Theme**: Modern, eye-friendly interface design
-- **Progress Tracking**: Personal learning path and achievement system
-- 
+- **Real-time Simulations** — Matter.js and Three.js powered physics engines
+- **Mathematical Rendering** — LaTeX equation support with KaTeX
+- **Responsive Design** — Optimized for desktop, tablet, and mobile devices
+- **Dark Theme** — Modern, eye-friendly interface design
+- **Progress Tracking** — Personal learning path and achievement system
+
+---
+
 ## Accessibility & Inclusive Design (WCAG-Aligned)
-This platform applies accessibility-first UI design principles aligned with WCAG 2.1 Level AA goals, including:
 
-Semantic structure and predictable navigation
+This platform applies accessibility-first interface design principles aligned with WCAG 2.1 Level AA goals, including:
 
-Keyboard-friendly interactions for core UI flows
+- Semantic structure and predictable navigation
+- Keyboard-friendly interaction patterns
+- Responsive layouts supporting desktop, tablet, and mobile devices
+- High-contrast visual design considerations
 
-Responsive layout for desktop/tablet/mobile
-
-High-contrast dark theme considerations
-Planned verification: axe DevTools/WAVE checks and screen reader testing (NVDA/VoiceOver).
+Planned verification includes accessibility auditing with axe DevTools and WAVE, alongside screen reader testing (NVDA and VoiceOver).
 
 ## 🚀 Live Demo
 
