@@ -4,9 +4,8 @@
 
 An interactive, comprehensive physics education platform built with React, TypeScript, and modern web technologies. This portal provides students, educators, and physics enthusiasts with engaging visualizations, simulations, and educational content covering all major areas of physics.
 
-## ⚠️ Demo Disclaimer
-
-This project is a demo for showcasing software engineering skills. Some links and features are for demonstration only.
+## Prototype / Instructional Showcase
+This project is an instructional prototype and portfolio showcase demonstrating immersive, simulation-driven learning experiences in a web-based environment. Certain sections are included to illustrate planned capabilities and may not be fully implemented in the current build.
 
 ## 🌟 Features
 
@@ -33,6 +32,18 @@ This project is a demo for showcasing software engineering skills. Some links an
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
 - **Dark Theme**: Modern, eye-friendly interface design
 - **Progress Tracking**: Personal learning path and achievement system
+- 
+## Accessibility & Inclusive Design (WCAG-Aligned)
+This platform applies accessibility-first UI design principles aligned with WCAG 2.1 Level AA goals, including:
+
+Semantic structure and predictable navigation
+
+Keyboard-friendly interactions for core UI flows
+
+Responsive layout for desktop/tablet/mobile
+
+High-contrast dark theme considerations
+Planned verification: axe DevTools/WAVE checks and screen reader testing (NVDA/VoiceOver).
 
 ## 🚀 Live Demo
 
